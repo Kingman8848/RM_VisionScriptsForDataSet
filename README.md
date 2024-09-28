@@ -1,5 +1,7 @@
 # RM_VisionScriptsForDataSet
 用于RM视觉yolo方向批量处理数据集的python脚本，主要是针对v8或者其他txt类型标签。
+
+
 关于每个脚本的使用，因为我已经一年多没用过了，所以忘记了，里面没记错的话应该有注释说明。
 
 
